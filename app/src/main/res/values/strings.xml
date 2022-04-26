@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Peduli Kita</string>
+    <string-array name="daftar_bank">
+        <item>BRI</item>
+        <item>BNI</item>
+        <item>BCA</item>
+        <item>MANDIRI</item>
+        <item>BANK JATENG</item>
+        <item>BANK MUAMALAT</item>
+        <item>BANK BTN</item>
+        <item>BANK BTPN</item>
+        <item>Bank Jago</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>

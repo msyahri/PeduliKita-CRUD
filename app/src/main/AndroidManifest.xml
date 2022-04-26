@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pmo.ananda_20SA1182.pedulikita">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.pmo.ananda_20SA1182.pedulikita">
+
+        <activity android:name="pmo.ananda_20SA1182.pedulikita.ActivityUpdate" />
+        <activity android:name="pmo.ananda_20SA1182.pedulikita.ListDataActivity" />
+        <activity android:name="pmo.ananda_20SA1182.pedulikita.form_data" />
+        <activity android:name="pmo.ananda_20SA1182.pedulikita.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
